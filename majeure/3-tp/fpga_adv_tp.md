@@ -115,7 +115,7 @@ Cet outil vous permet de construire votre propre micro-contrôleur (wouhou !)
 
 6. Ajoutez le module jtag uart.
 
-> Interface Protocols > JTAG UART Intel FPGA IP
+> Interface Protocols > Serial > JTAG UART Intel FPGA IP
 
 7. Ajoutez un PIO. Configurez ```Width``` à ```10```
 
